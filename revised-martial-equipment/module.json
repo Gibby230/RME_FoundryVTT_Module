@@ -29,7 +29,7 @@
 
   "styles": [],
 
-  "manifest": "https://github.com/Gibby230/RME_FoundryVTT_Module/blob/main/revised-martial-equipment/module.json",
+  "manifest": "https://github.com/Gibby230/RME_FoundryVTT_Module/blob/v0.2.0/revised-martial-equipment/module.json",
   "download": "https://github.com/Gibby230/RME_FoundryVTT_Module/archive/refs/tags/v0.2.0.zip",
   "minimumCoreVersion": "0.8.9",
   "compatibleCoreVersion": "9"
