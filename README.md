@@ -5,7 +5,7 @@ This is still a work in progress and I am new to foundry modules.
 Currently the only features that are functioning are the check boxes for weapon proficiencies and weapon proporties. 
 
 MANIFEST
-https://raw.githubusercontent.com/Gibby230/RME_FoundryVTT_Module/v0.2.0/revised-martial-equipment/module.json
+ https://raw.githubusercontent.com/Gibby230/RME_FoundryVTT_Module/main/revised-martial-equipment/module.json
 
 TO DOWNLOAD!
 
