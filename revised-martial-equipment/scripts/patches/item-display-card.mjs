@@ -3,7 +3,7 @@ import { libWrapper } from "../../lib/libWrapper/shim.js";
 const MODULE_NAME = "revised-martial-equipment";
 
 // When I create an Item chat card, replace the damage buttons with our custom ones.
-export function patchItemDisplayCard() {
+/**export function patchItemDisplayCard() {
     console.log(`RME | Patching Item Display Card`);
 
     libWrapper.register(MODULE_NAME, "CONFIG.Item.documentClass.prototype.displayCard", async function patchedDisplayCard(wrapped, options, ...rest) {
@@ -32,7 +32,8 @@ export function patchItemDisplayCard() {
 
         return result;
     }, "WRAPPER");
-}
+}*/
+
 
 /**
  * Replace stock damage buttons with our buttons for each damage group
