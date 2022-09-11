@@ -60,7 +60,7 @@
         "DND5E.ItemWeaponProperties": "Weapon Training Level",
         "DND5E.TraitSelectorSpecial": "Master (Split with Semi-Colon)",
 
-        "mre-dnd5e.FORMULA-GROUP.Primary": "Untrained",
-        "mre-dnd5e.FORMULA-GROUP.Secondary": "Basic",
-        "mre-dnd5e.FORMULA-GROUP.Tertiary": "Master"
+        "rme-dnd5e.FORMULA-GROUP.Primary": "Untrained",
+        "rme-dnd5e.FORMULA-GROUP.Secondary": "Basic",
+        "rme-dnd5e.FORMULA-GROUP.Tertiary": "Master"
 }
